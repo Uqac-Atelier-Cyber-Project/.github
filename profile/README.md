@@ -1,12 +1,13 @@
-## Hi there 👋
+# OPIB - Outil de Pentest Indépendant Breton
 
-<!--
+## Organisation du projet
 
-**Here are some ideas to get you started:**
+Le projet est structuré en **7 dépôts** :
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **`vue-js-front`** : Interface graphique utilisateur.
+- **`spring-boot-back-for-front-api-rest`** : API centrale assurant l’interface entre les modules, le front-end et la base de données.
+- **`spring-boot-scan-port`** : Module dédié au scan de ports.
+- **`spring-boot-bruteforce-ssh`** : Module de brute-force sur SSH.
+- **`spring-boot-attack-wifi`** : Module d’attaques sur les réseaux Wi-Fi.
+- **`spring-boot-analyse-cve`** : Module d’analyse des vulnérabilités CVE.
+- **`spring-boot-generate-report`** : Génération de rapports basés sur les résultats des modules.
