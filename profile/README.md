@@ -14,7 +14,7 @@ Le projet est structuré en **7 dépôts** :
 
 ## Prochains objectifs
 
-- **Gros refactor de code** pour améliorer la structure et la maintenabilité.  
-- **Correction de certains bugs** graphiques et back-end.  
-- **Amélioration de la génération des rapports** pour une meilleure lisibilité et exhaustivité.  
-- **Ajout d'une IA** pour la catégorisation automatique des vulnérabilités détectées.  
+- :white_check_mark: **Gros refactor de code** pour améliorer la structure et la maintenabilité.  
+- :white_check_mark: **Correction de certains bugs** graphiques et back-end.  
+- :white_check_mark: **Amélioration de la génération des rapports** pour une meilleure lisibilité et exhaustivité.  
+- :white_check_mark: **Ajout d'une IA** pour la catégorisation automatique des vulnérabilités détectées.  
