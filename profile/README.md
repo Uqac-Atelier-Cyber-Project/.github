@@ -28,6 +28,11 @@ Concevoir une solution logicielle complète et modulaire pour :
 
 Le projet est structuré autour de plusieurs modules indépendants, tous interconnectés via une API centrale :
 
+![LastUpdateArchi (1)](https://github.com/user-attachments/assets/b6102eb3-c589-487a-ae6b-77741e08e0a1)
+
+
+
+
 ### Frontend
 
 - [`vue-js-front`](https://github.com/Uqac-Atelier-Cyber-Project/vue-js-front)  
