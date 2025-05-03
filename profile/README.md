@@ -81,9 +81,6 @@ Ce projet a été réalisé à des fins pédagogiques**.
 
 L’ensemble du code, des documents et des ressources produits dans le cadre de ce projet sont soumis à une licence open source, mais restent la propriété intellectuelle des auteurs (présenter en section `Etudiants`).
 
-**Encadré par :**
-- [Nom de l’enseignant·e], professeur·e à l’UQAC
-
 Sauf mention contraire, ce projet est distribué sous licence MIT.
 
 Toute utilisation à des fins commerciales ou en dehors d’un cadre académique doit faire l’objet d’une autorisation préalable des auteurs.
